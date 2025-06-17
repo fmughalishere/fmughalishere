@@ -14,7 +14,7 @@
 
 - 🤝 I’m looking for help with **Mern Stack or AI related Technologies**
 
-- 👨‍💻 All of my projects are available at [https://portfoliobyfm.netlify.app/](https://portfoliobyfm.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://github.com/fmughalishere](https://github.com/fmughalishere)
 
 - 📝 I regularly write articles on [https://medium.com/@fizamuneer0101](https://medium.com/@fizamuneer0101)
 
