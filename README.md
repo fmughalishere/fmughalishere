@@ -98,7 +98,7 @@
 <p align="center">
   If you like my work, please consider supporting me!
   <br><br>
-  <a href="coff.ee/fizamuneero">
+  <a href="https://coff.ee/fizamuneero">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" alt="Buy Me A Coffee" />
   </a>
   <a href="https://ko-fi.com/f_mughalishere">
