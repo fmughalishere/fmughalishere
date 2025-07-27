@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi 👋, I'm Fiza Muneer</h1>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=3399FF¢er=true&width=435&lines=Passionate+MERN+Stack+Developer;Building+Digital+Experiences;From+Pakistan+🇵🇰" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=3399FF¢er=true&width=435&lines=MERN+Stack+Developer;Building+Digital+Experiences;From+Pakistan+🇵🇰" alt="Typing SVG" />
   </a>
 </div>
 
