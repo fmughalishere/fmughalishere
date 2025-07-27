@@ -2,7 +2,8 @@ name: Update README
 
 on:
   schedule:
-    - cron: '0 */8 * * *'
+    - cron: '*/5 * * * *'
+  # Yeh aapko manually chalane ki ijazat deta hai
   workflow_dispatch:
 
 jobs:
