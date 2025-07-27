@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z0d2Z1eW0ybTBud2V0dzJ6cDJxN3lkaDN2c3U3ZDNscTgzYnhzcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="100px" />
+  <p align="center">
+  <img src="https://media.sponple.com/images/person/bg/coding.gif" width="250" />
+</p>
   <h1>Hi 👋, I'm Fiza Muneer</h1>
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=3399FF¢er=true&width=435&lines=Passionate+MERN+Stack+Developer;Building+Digital+Experiences;From+Pakistan+🇵🇰" alt="Typing SVG" />
