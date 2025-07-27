@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/anime-code.gif" width="300" />
-</p>
-
 <div align="center">
   <h1>Hi 👋, I'm Fiza Muneer</h1>
   <a href="https://git.io/typing-svg">
