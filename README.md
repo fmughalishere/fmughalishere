@@ -66,9 +66,9 @@
 </p>
 
 <h3 align="center">My Contribution Graph 🐍</h3>
-<div align="center">
-  <img src="https://github.com/fmughalishere/fmughalishere/raw/output/github-contribution-grid-snake.svg" alt="Snake Contribution Grid">
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fmughalishere&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="GitHub Activity Graph" />
+</p>
 
 <hr>
 
