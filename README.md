@@ -89,7 +89,7 @@
 
 <hr>
 
-### ✍️ Latest Blog Posts
+### ✍️ Latest Articles Posts
 
 <hr>
 
