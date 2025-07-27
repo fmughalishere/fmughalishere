@@ -1,13 +1,9 @@
-<!-- 
-  Banner: Aap Canva.com ya Figma se apne liye ek custom banner bana sakti hain
-  aur uski image link yahan paste kar sakti hain.
--->
+<!-- Coder Girl GIF -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/fmughalishere/fmughalishere/main/assets/Fiza-Banner.png" alt="Fiza Muneer Banner">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2JqYW11aGoyZXRwZzA5b3k2aGhkZDJzNmVjNWEzanAybjZlY3NkcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpYqx/giphy.gif" width="250" />
 </p>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z0d2Z1eW0ybTBud2V0dzJ6cDJxN3lkaDN2c3U3ZDNscTgzYnhzcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="100px" />
   <h1>Hi 👋, I'm Fiza Muneer</h1>
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=3399FF¢er=true&width=435&lines=Passionate+MERN+Stack+Developer;Building+Digital+Experiences;From+Pakistan+🇵🇰" alt="Typing SVG" />
@@ -47,7 +43,9 @@
       <h3>My GitHub Stats 📊</h3>
         <p align="center">
           <!-- WakaTime Stats -->
-          <img src="https://github-readme-stats.vercel.app/api/wakatime?username=fmughalishere&theme=tokyonight&hide_border=true&layout=compact" alt="WakaTime" />
+          <a href="https://wakatime.com/@fmughalishere">
+            <img src="https://github-readme-stats.vercel.app/api/wakatime?username=fmughalishere&theme=tokyonight&hide_border=true&layout=compact" alt="WakaTime" />
+          </a>
           <br>
           <img src="https://github-readme-stats.vercel.app/api?username=fmughalishere&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
           <br>
@@ -79,7 +77,7 @@
 <!-- GitHub Contribution Snake -->
 <h3 align="center">My Contribution Graph 🐍</h3>
 <div align="center">
-  <img src="https://github.com/fmughalishere/fmughalishere/blob/output/github-contribution-grid-snake.svg" alt="Snake Contribution Grid">
+  <img src="https://github.com/fmughalishere/fmughalishere/raw/output/github-contribution-grid-snake.svg" alt="Snake Contribution Grid">
 </div>
 
 <hr>
