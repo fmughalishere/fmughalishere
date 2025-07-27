@@ -94,7 +94,9 @@
 <hr>
 
 ### ✍️ Latest Blog Posts
+
 <hr>
+
 ### ❤️ Support Me
 
 <p align="center">
