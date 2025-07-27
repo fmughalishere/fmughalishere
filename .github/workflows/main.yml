@@ -20,7 +20,7 @@ jobs:
 
       - uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://medium.com/feed/@fizamuneer0101"
+          feed_list: "https://medium.com/@fizamuneer0101"
 
       - name: Commit and Push
         run: |
