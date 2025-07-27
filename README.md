@@ -1,11 +1,3 @@
-<!-- 
-  Banner: Aap Canva.com ya Figma se apne liye ek custom banner bana sakti hain
-  aur uski image link yahan paste kar sakti hain.
--->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/fmughalishere/fmughalishere/main/assets/Fiza-Banner.png" alt="Fiza Muneer Banner">
-</p>
-
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z0d2Z1eW0ybTBud2V0dzJ6cDJxN3lkaDN2c3U3ZDNscTgzYnhzcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="100px" />
   <h1>Hi 👋, I'm Fiza Muneer</h1>
