@@ -1,11 +1,9 @@
-<!-- FIX: Aisa GIF link dala hai jo 100% kaam karega -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/anime-code.gif" width="300" />
 </p>
 
 <div align="center">
   <h1>Hi 👋, I'm Fiza Muneer</h1>
-  <!-- FIX: Typing animation ko center kar diya hai -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=3399FF¢er=true&width=435&lines=Passionate+MERN+Stack+Developer;Building+Digital+Experiences;From+Pakistan+🇵🇰" alt="Typing SVG" />
   </a>
@@ -13,9 +11,6 @@
 
 <hr>
 
-<!-- 
-  Two-Column Layout: About Me (Left) & Stats (Right)
--->
 <table>
   <tr>
     <td valign="top" width="60%">
@@ -43,7 +38,6 @@
     <td valign="top" width="40%">
       <h3>My GitHub Stats 📊</h3>
         <p align="center">
-          <!-- FIX: WakaTime stats hata di hai taaki error na aaye -->
           <img src="https://github-readme-stats.vercel.app/api?username=fmughalishere&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
           <br>
           <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fmughalishere&show_icons=true&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
@@ -71,7 +65,6 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </p>
 
-<!-- GitHub Contribution Snake -->
 <h3 align="center">My Contribution Graph 🐍</h3>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=fmughalishere&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="GitHub Activity Graph" />
@@ -100,10 +93,10 @@
 
 <hr>
 
-### ✍️ Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
+### ✍️ Latest Articles Posts
+<div>
+<a href = "https://medium.com/@fizamuneer0101/fullstack-development-with-serverless-functions-the-future-of-scalable-web-applications-8288f91809f9"></a>
+<a href = "https://medium.com/@fizamuneer0101/how-i-converted-my-html-css-e-commerce-website-to-a-mern-app-7dc792102972"></a>
 <hr>
 
 ### ❤️ Support Me
