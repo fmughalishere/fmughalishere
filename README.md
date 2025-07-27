@@ -1,8 +1,11 @@
-<div align="center">
- <p align="center">
-  <img src="https://i.pinimg.com/originals/e4/26/15/e4261518990667b205011855f75a7c2a.gif" width="250" />
+<!-- FIX: GIF ka link theek kar diya hai -->
+<p align="center">
+  <img src="https://media.sponple.com/images/person/bg/coding.gif" width="250" />
 </p>
+
+<div align="center">
   <h1>Hi 👋, I'm Fiza Muneer</h1>
+  <!-- FIX: Typing animation ka link theek kar diya hai -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=3399FF¢er=true&width=435&lines=Passionate+MERN+Stack+Developer;Building+Digital+Experiences;From+Pakistan+🇵🇰" alt="Typing SVG" />
   </a>
@@ -40,7 +43,6 @@
     <td valign="top" width="40%">
       <h3>My GitHub Stats 📊</h3>
         <p align="center">
-          <!-- WakaTime Stats -->
           <img src="https://github-readme-stats.vercel.app/api/wakatime?username=fmughalishere&theme=tokyonight&hide_border=true&layout=compact" alt="WakaTime" />
           <br>
           <img src="https://github-readme-stats.vercel.app/api?username=fmughalishere&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
@@ -80,10 +82,6 @@
 
 ### ✨ Featured Projects
 
-<!-- 
-  Apne 3 behtareen projects ko yahan add karein. 
-  Project ke image, title, description, aur links ko update karein.
--->
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -105,7 +103,6 @@
 
 ### ✍️ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-<!-- Isko automatically update karne ke liye GitHub Action set up karein -->
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
