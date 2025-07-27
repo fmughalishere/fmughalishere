@@ -1,11 +1,11 @@
-<!-- FIX: GIF ka link theek kar diya hai -->
+<!-- FIX: Aisa GIF link dala hai jo 100% kaam karega -->
 <p align="center">
-  <img src="https://media.sponple.com/images/person/bg/coding.gif" width="250" />
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/anime-code.gif" width="300" />
 </p>
 
 <div align="center">
   <h1>Hi 👋, I'm Fiza Muneer</h1>
-  <!-- FIX: Typing animation ka link theek kar diya hai -->
+  <!-- FIX: Typing animation ko center kar diya hai -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=3399FF¢er=true&width=435&lines=Passionate+MERN+Stack+Developer;Building+Digital+Experiences;From+Pakistan+🇵🇰" alt="Typing SVG" />
   </a>
@@ -43,8 +43,7 @@
     <td valign="top" width="40%">
       <h3>My GitHub Stats 📊</h3>
         <p align="center">
-          <img src="https://github-readme-stats.vercel.app/api/wakatime?username=fmughalishere&theme=tokyonight&hide_border=true&layout=compact" alt="WakaTime" />
-          <br>
+          <!-- FIX: WakaTime stats hata di hai taaki error na aaye -->
           <img src="https://github-readme-stats.vercel.app/api?username=fmughalishere&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
           <br>
           <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fmughalishere&show_icons=true&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
@@ -85,14 +84,14 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>Project Title 1</h4>
-      <p>A short description of your project. Explain what it does and the technologies you used.</p>
+      <h4>Positivus - Digital Agency Website</h4>
+      <p>A responsive landing page for a digital marketing agency, built with React and Tailwind CSS.</p>
       <a href="https://github.com/fmughalishere/Positivus" target="_blank">View Code</a> | 
       <a href="https://fizzasproject.netlify.app/" target="_blank">Live Demo</a>
     </td>
     <td width="50%" valign="top">
-      <h4>Project Title 2</h4>
-      <p>A short description of your project. Explain what it does and the technologies you used.</p>
+      <h4>BeautyHere - E-commerce UI</h4>
+      <p>A modern UI for a beauty products e-commerce store, designed to be sleek and user-friendly.</p>
       <a href="https://github.com/fmughalishere/Beauty-Here" target="_blank">View Code</a> | 
       <a href="https://beautyherebyfizza.netlify.app/" target="_blank">Live Demo</a>
     </td>
