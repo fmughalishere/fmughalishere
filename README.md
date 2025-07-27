@@ -1,6 +1,6 @@
 <div align="center">
-  <p align="center">
-  <img src="https://media.sponple.com/images/person/bg/coding.gif" width="250" />
+ <p align="center">
+  <img src="https://i.pinimg.com/originals/e4/26/15/e4261518990667b205011855f75a7c2a.gif" width="250" />
 </p>
   <h1>Hi 👋, I'm Fiza Muneer</h1>
   <a href="https://git.io/typing-svg">
