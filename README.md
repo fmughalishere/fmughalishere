@@ -66,9 +66,9 @@
 </p>
 
 <h3 align="center">My Contribution Graph 🐍</h3>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fmughalishere&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="GitHub Activity Graph" />
-</p>
+<div align="center">
+  <img src="https://github.com/fmughalishere/fmughalishere/raw/output/github-contribution-grid-snake.svg" alt="Snake Contribution Grid">
+</div>
 
 <hr>
 
@@ -93,12 +93,8 @@
 
 <hr>
 
-### ✍️ Latest Articles Posts
-<div>
-<a href = "https://medium.com/@fizamuneer0101/fullstack-development-with-serverless-functions-the-future-of-scalable-web-applications-8288f91809f9"></a>
-<a href = "https://medium.com/@fizamuneer0101/how-i-converted-my-html-css-e-commerce-website-to-a-mern-app-7dc792102972"></a>
+### ✍️ Latest Blog Posts
 <hr>
-
 ### ❤️ Support Me
 
 <p align="center">
