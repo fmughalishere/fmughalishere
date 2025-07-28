@@ -2,7 +2,8 @@ name: Update README
 
 on:
   schedule:
-    - cron: '*/5 * * * *'
+    # Runs every 12 hours
+    - cron: '0 */12 * * *'
   workflow_dispatch:
 
 jobs:
@@ -11,17 +12,27 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
+      # Step 1: Generate the standard light-mode snake grid
+      - uses: Platane/snk@v3
+        id: snake-gif
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: dist/github-contribution-grid-snake.svg
+
+      # Step 2: Generate the dark-mode snake grid
       - uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+          outputs: dist/github-contribution-grid-snake-dark.svg
+          # Add the palette option here for the dark theme
+          palette: github-dark
 
+      # Step 3: Fetch blog posts
       - uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://medium.com/@fizamuneer0101"
 
+      # Step 4: Commit and push the changes
       - name: Commit and Push
         run: |
           git config --global user.name "GitHub Actions Bot"
