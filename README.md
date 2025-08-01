@@ -20,7 +20,7 @@
         <li>👯 I’m looking to collaborate with fellow developers on open-source.</li>
         <li>💬 Ask me about <strong>M | E | R | N</strong>, I'd be happy to help!</li>
         <li>📫 How to reach me: <strong>fizamuneer0101@gmail.com</strong></li>
-        <li>📄 My Portfolio: <a href="https://portfoliobyfm.netlify.app/">portfoliobyfm.netlify.app</a></li>
+        <li>📄 My Portfolio: <a href="https://myportfolio-fizza.netlify.app/">portfoliobyfm.netlify.app</a></li>
       </ul>
       <hr>
       <h3>Connect with Me 🤝</h3>
