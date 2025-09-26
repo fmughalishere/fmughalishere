@@ -31,16 +31,16 @@
         <a href="https://stackoverflow.com/users/28674772/fiza-muneer" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow" /></a>
       </p>
     </td>
-    <td valign="top" width="40%">
-      <h3>My GitHub Stats 📊</h3>
-        <p align="center">
-          <img src="https://github-readme-stats.vercel.app/api?username=fmughalishere&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-          <br>
-          <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fmughalishere&show_icons=true&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
-          <br>
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=fmughalishere&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-        </p>
-    </td>
+   <td valign="top" width="40%">
+  <h3>My GitHub Stats 📊</h3>
+    <p align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=fmughalishere&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+      <br>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fmughalishere&show_icons=true&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
+      <br>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=fmughalishere&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+    </p>
+</td>
   </tr>
 </table>
 
