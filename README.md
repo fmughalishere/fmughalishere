@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/150493863?v=4" width="150" height="150" style="border-radius:50%; margin-bottom: 20px;" alt="Fiza Muneer Profile Picture">
   <h1>Hi there! I'm Fiza Muneer 👋</h1>
-  <p>A passionate <h1>MERN Stack Developer</h1>h1> building captivating digital experiences.</p>
+  <p>A passionate <h1>MERN Stack Developer</h1> building captivating digital experiences.</p>
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=3399FF&center=true&width=500&lines=Crafting+Seamless+Web+Applications;Bringing+Ideas+to+Life;MERN+Stack+Specialist;From+Lahore,+Pakistan+%F0%9F%87%B5%F0%9F%87%B0" alt="Typing SVG" />
   </a>
