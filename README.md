@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi 👋, I'm Fiza Muneer</h1>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=3399FF¢er=true&width=500&lines=Passionate+MERN+Stack+Developer;Building+Digital+Experiences;From+Lahore,+Pakistan+%F0%9F%87%B5%F0%9F%87%B0" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=3399FF&center=true&width=500&lines=Passionate+MERN+Stack+Developer;Building+Digital+Experiences;From+Lahore,+Pakistan+%F0%9F%87%B5%F0%9F%87%B0" alt="Typing SVG" />
   </a>
 </div>
 
@@ -31,16 +31,16 @@
         <a href="https://stackoverflow.com/users/28674772/fiza-muneer" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow" /></a>
       </p>
     </td>
-   <td valign="top" width="40%">
-  <h3>My GitHub Stats 📊</h3>
-    <p align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=fmughalishere&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-      <br>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fmughalishere&show_icons=true&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
-      <br>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=fmughalishere&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-    </p>
-</td>
+    <td valign="top" width="40%">
+      <h3>My GitHub Stats 📊</h3>
+        <p align="center">
+          <img src="https://github-readme-stats.vercel.app/api?username=fmughalishere&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Fiza Muneer's GitHub Stats" />
+          <br>
+          <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fmughalishere&show_icons=true&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
+          <br>
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=fmughalishere&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+        </p>
+    </td>
   </tr>
 </table>
 
