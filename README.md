@@ -1,6 +1,6 @@
 <!-- Header with Dynamic Waving Animation -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,25,30&height=280&section=header&text=Fiza%20Muneer&fontSize=80&fontAlignY=35&animation=fadeIn&desc=MERN%20Stack%20Developer%20%7C%20UI%2FX%20Enthusiast&descAlignY=55&descAlign=62" alt="Fizza Munir" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,25,30&height=280&section=header&text=Fiza%20Muneer&fontSize=80&fontAlignY=35&animation=fadeIn&desc=MERN%20Stack%20Developer%20%7C%20UI%2FX%20Enthusiast&descAlignY=55&descAlign=62" alt="Fizza Munir " width="100%" />
 
   <!-- Typing Effect -->
   <a href="https://git.io/typing-svg">
