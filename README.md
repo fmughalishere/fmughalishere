@@ -20,12 +20,12 @@
         <li>👯 I’m looking to collaborate with fellow developers on open-source.</li>
         <li>💬 Ask me about <strong>M | E | R | N</strong>, I'd be happy to help!</li>
         <li>📫 How to reach me: <strong>fizamuneer0101@gmail.com</strong></li>
-        <li>📄 My Portfolio: <a href="https://myportfolio-fizza.netlify.app/">https://myportfolio-fizza.netlify.app/</a></li>
+        <li>📄 My Portfolio: <a href="https://my-portfolio-nextjs-ten-roan.vercel.app/"></a></li>
       </ul>
       <hr>
       <h3>Connect with Me 🤝</h3>
       <p align="left">
-        <a href="https://www.linkedin.com/in/fiza-muneer-aa054a316/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+        <a href="https://www.linkedin.com/in/fizza-muneer-aa054a316/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
         <a href="https://twitter.com/@merndevfiza01" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
         <a href="https://medium.com/@fizamuneer0101" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
         <a href="https://stackoverflow.com/users/28674772/fiza-muneer" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow" /></a>
