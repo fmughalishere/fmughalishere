@@ -1,29 +1,33 @@
 <div align="center">
+  <img src="https://raw.githubusercontent.com/fmughalishere/fmughalishere/main/dev-typing-gif.gif" alt="Animated Developer Typing" width="100%" />
+</div>
+
+<div align="center">
   <h1>Hi 👋, I'm Fiza Muneer</h1>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=3399FF&center=true&width=500&lines=Passionate+MERN+Stack+Developer;Building+Digital+Experiences;From+Lahore,+Pakistan+%F0%9F%87%B5%F0%9F%87%B0" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00FF7F&center=true&vCenter=true&width=550&lines=Full+Stack+MERN+Developer;Crafting+Scalable+Web+Solutions;Next.js+|+AI+Enthusiast" alt="Typing SVG" />
   </a>
 </div>
 
-<hr>
+---
 
 <table>
   <tr>
     <td valign="top" width="60%">
-      <h3>About Me 🚀</h3>
+      <h2>About Me 👩‍💻</h2>
       <p>
-        I'm a self-motivated and passionate MERN Stack Developer with a knack for building dynamic and user-friendly web applications. I enjoy turning complex problems into simple, beautiful, and intuitive designs. I'm always eager to learn new technologies and collaborate on exciting projects.
+        I'm a self-motivated and **passionate MERN Stack Developer** with a focus on building dynamic, high-performance, and user-centric web applications. I thrive on translating complex challenges into elegant, intuitive, and scalable digital solutions. I am deeply committed to **continuous learning** and actively seek opportunities to collaborate on **innovative projects** that push the boundaries of modern web development.
       </p>
       <ul>
-        <li>🔭 I’m currently building Full Stack Web Applications.</li>
-        <li>🌱 I’m learning advanced concepts in <strong>AI and Next.js</strong>.</li>
-        <li>👯 I’m looking to collaborate with fellow developers on open-source.</li>
-        <li>💬 Ask me about <strong>M | E | R | N</strong>, I'd be happy to help!</li>
-        <li>📫 How to reach me: <strong>fizamuneer0101@gmail.com</strong></li>
-        <li>📄 My Portfolio: <a href=https://my-portfolio-nextjs-ten-roan.vercel.app/></a></li>
+        <li>🔭 I’m currently focused on building **Full Stack Web Applications** with a strong emphasis on architecture and performance.</li>
+        <li>🌱 I’m dedicated to mastering **Next.js** and exploring practical applications of **Artificial Intelligence (AI)** in web development.</li>
+        <li>👯 I’m actively looking to collaborate with fellow developers on **open-source contributions** and innovative projects.</li>
+        <li>💬 Ask me about the **M | E | R | N** stack, **design patterns**, or **performance optimization**—I'm happy to share insights!</li>
+        <li>📫 How to reach me: **<a href="mailto:fizamuneer0101@gmail.com">fizamuneer0101@gmail.com</a>**</li>
+        <li>🌐 My Portfolio: **<a href="https://my-portfolio-nextjs-ten-roan.vercel.app/" target="_blank">View Portfolio</a>**</li>
       </ul>
       <hr>
-      <h3>Connect with Me 🤝</h3>
+      <h2>Connect with Me 🔗</h2>
       <p align="left">
         <a href="https://www.linkedin.com/in/fizza-muneer-aa054a316/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
         <a href="https://twitter.com/@merndevfiza01" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
@@ -32,24 +36,21 @@
       </p>
     </td>
     <td valign="top" width="40%">
-      <h3>My GitHub Stats 📊</h3>
-        <p align="center">
-          <!-- Yeh card aapke total commits (public + private) dikhaye ga aur waqt ke sath update hota rahega -->
-          <img src="https://github-readme-stats.vercel.app/api?username=fmughalishere&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Fiza Muneer's GitHub Stats" />
-          <br>
-          <!-- Yeh card aapki sab se ziada istemal ki gayi languages dikhaye ga -->
-          <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fmughalishere&show_icons=true&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
-          <br>
-          <!-- Yeh card aapki daily contribution streak (musalsal kaam karne ka record) dikhaye ga -->
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=fmughalishere&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-        </p>
+      <h2>My GitHub Stats 📈</h2>
+      <p align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=fmughalishere&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Fiza Muneer's GitHub Stats" />
+        <br>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fmughalishere&show_icons=true&theme=radical&hide_border=true&layout=compact" alt="Top Languages" />
+        <br>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=fmughalishere&theme=radical&hide_border=true" alt="GitHub Streak" />
+      </p>
     </td>
   </tr>
 </table>
 
-<hr>
+---
 
-### 💻 My Tech Stack
+## 🛠️ Tech Stack & Expertise
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -64,44 +65,44 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </p>
 
-<h3 align="center">My Contribution Graph 🐍</h3>
+### 📊 My Development Activity
+
 <p align="center">
-  <!-- Yeh graph aapki saal bhar ki activity dikhaye ga aur rozana update hoga -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fmughalishere&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fmughalishere&theme=dracula&hide_border=true&bg_color=282a36&line=ff79c6&point=bd93f9" alt="GitHub Activity Graph" />
 </p>
 
-<hr>
+---
 
-### ✨ Featured Projects
+## ✨ Featured Projects: Showcasing MERN Expertise
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>Positivus - Digital Agency Website</h4>
-      <p>A responsive landing page for a digital marketing agency, built with React and Tailwind CSS.</p>
-      <a href="https://github.com/fmughalishere/Positivus" target="_blank">View Code</a> | 
-      <a href="https://fizzasproject.netlify.app/" target="_blank">Live Demo</a>
+      <h4>Positivus - Digital Agency Website 🚀</h4>
+      <p>A high-fidelity, responsive landing page for a digital marketing agency, emphasizing modern **React** component architecture and utility-first styling with **Tailwind CSS**. A prime example of frontend excellence.</p>
+      <a href="https://github.com/fmughalishere/Positivus" target="_blank">**View Code**</a> | 
+      <a href="https://fizzasproject.netlify.app/" target="_blank">**Live Demo**</a>
     </td>
     <td width="50%" valign="top">
-      <h4>BeautyHere - E-commerce UI</h4>
-      <p>A modern UI for a beauty products e-commerce store, designed to be sleek and user-friendly.</p>
-      <a href="https://github.com/fmughalishere/Beauty-Here" target="_blank">View Code</a> | 
-      <a href="https://beautyherebyfizza.netlify.app/" target="_blank">Live Demo</a>
+      <h4>BeautyHere - E-commerce UI 🛍️</h4>
+      <p>A modern, sleek, and user-friendly UI for a beauty products e-commerce store. This project focuses on **UI/UX best practices** and clean, maintainable frontend code, setting the stage for a future MERN backend integration.</p>
+      <a href="https://github.com/fmughalishere/Beauty-Here" target="_blank">**View Code**</a> | 
+      <a href="https://beautyherebyfizza.netlify.app/" target="_blank">**Live Demo**</a>
     </td>
   </tr>
 </table>
 
-<hr>
+---
 
-### ❤️ Support Me
+## ❤️ Support My Work
 
 <p align="center">
-  If you like my work, please consider supporting me!
+  If my work helps you or you appreciate my contributions, please consider supporting my caffeine habit!
   <br><br>
-  <a href="https://coff.ee/fizamuneero">
+  <a href="https://coff.ee/fizamuneero" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" alt="Buy Me A Coffee" />
   </a>
-  <a href="https://ko-fi.com/fizamuneer">
+  <a href="https://ko-fi.com/fizamuneer" target="_blank">
     <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" alt="Ko-fi" />
   </a>
 </p>
