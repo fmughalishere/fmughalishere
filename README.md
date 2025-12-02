@@ -16,7 +16,7 @@
     <td valign="top" width="60%">
       <h2>About Me 👩‍💻</h2>
       <p>
-        I'm a self-motivated and **passionate MERN Stack Developer** with a focus on building dynamic, high-performance, and user-centric web applications. I thrive on translating complex challenges into elegant, intuitive, and scalable digital solutions. I am deeply committed to **continuous learning** and actively seek opportunities to collaborate on **innovative projects** that push the boundaries of modern web development.
+        I'm a self-motivated and **passionate MERN Stack Developer** with a focus on building dynamic, high-performance, and user-centric web applications. I thrive on translating complex challenges into elegant, intuitive, and scalable digital solutions. I am deeply committed to ***continuous learning*** and actively seek opportunities to collaborate on **innovative projects** that push the boundaries of modern web development.
       </p>
       <ul>
         <li>🔭 I’m currently focused on building **Full Stack Web Applications** with a strong emphasis on architecture and performance.</li>
