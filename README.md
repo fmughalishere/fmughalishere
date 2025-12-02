@@ -1,6 +1,6 @@
-<!-- Header with Dynamic Animation -->
+<!-- Header with Dynamic Waving Animation -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,25,30&height=280&section=header&text=Fiza%20Muneer&fontSize=80&fontAlignY=35&animation=fadeIn&desc=MERN%20Stack%20Developer%20%7C%20UI%2FX%20Enthusiast&descAlignY=55&descAlign=62" alt="Fiza Muneer Header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,25,30&height=280&section=header&text=Fiza%20Muneer&fontSize=80&fontAlignY=35&animation=fadeIn&desc=MERN%20Stack%20Developer%20%7C%20UI%2FX%20Enthusiast&descAlignY=55&descAlign=62" alt="Fizza Munir " width="100%" />
 
   <!-- Typing Effect -->
   <a href="https://git.io/typing-svg">
@@ -22,7 +22,7 @@
 
 <br/>
 
-<!-- Main Content Layout -->
+<!-- Main Content Layout (About & Stats) -->
 <table>
   <tr>
     <td valign="top" width="60%">
@@ -48,8 +48,10 @@
     <td valign="top" width="40%">
       <div align="center">
         <h3>📊 GitHub Stats</h3>
+        <!-- GitHub Stats Card -->
         <img src="https://github-readme-stats.vercel.app/api?username=fmughalishere&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Fiza's GitHub Stats" width="100%" />
         <br/>
+        <!-- Streak Stats Card -->
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=fmughalishere&theme=tokyonight&hide_border=true" alt="Fiza's Streak" width="100%" />
       </div>
     </td>
@@ -58,27 +60,28 @@
 
 <hr/>
 
-<!-- Trophies Section -->
+<!-- Trophies Section (Achievements) -->
 <h3 align="center">🏆 Achievements</h3>
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fmughalishere&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
+  <!-- Agar yeh image load na ho to page refresh karein, kabhi kabhi API slow hoti hai -->
+  <img src="https://github-profile-trophy.vercel.app/?username=fmughalishere&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1" alt="Trophies" />
 </div>
 
 <hr/>
 
-<!-- Tech Stack Section using Skill Icons (Cleaner look) -->
+<!-- Tech Stack Section using Skill Icons (Modern Look) -->
 <h3 align="center">💻 Technologies & Tools</h3>
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,html,css,tailwind&perline=8" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,html,css,tailwind&perline=8" alt="Frontend Skills" />
     <br/><br/>
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,git,github,vscode,figma&perline=8" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,git,github,vscode,figma&perline=8" alt="Backend & Tools" />
   </a>
 </div>
 
 <br/>
 
-<!-- Isometric Contribution Graph -->
+<!-- Isometric Contribution Graph (3D Style) -->
 <h3 align="center">🐍 My Contribution Journey</h3>
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=fmughalishere&bg_color=1a1b27&color=79ff97&line=3399ff&point=ffffff&hide_border=true&area=true" width="100%" alt="Activity Graph" />
@@ -103,22 +106,22 @@
       <td width="20%"><strong>Positivus</strong><br/>Digital Agency</td>
       <td>A responsive landing page for a digital marketing agency with modern UI principles.</td>
       <td>
-        <img src="https://skillicons.dev/icons?i=react,tailwind" width="50" />
+        <img src="https://skillicons.dev/icons?i=react,tailwind&theme=dark" width="60" />
       </td>
       <td>
-        <a href="https://github.com/fmughalishere/Positivus">Code</a> <br/>
-        <a href="https://fizzasproject.netlify.app/">Live</a>
+        <a href="https://github.com/fmughalishere/Positivus">View Code</a> <br/>
+        <a href="https://fizzasproject.netlify.app/">Live Demo</a>
       </td>
     </tr>
     <tr>
       <td width="20%"><strong>BeautyHere</strong><br/>E-commerce</td>
       <td>A modern UI for a beauty products store, designed to be sleek and user-friendly.</td>
       <td>
-        <img src="https://skillicons.dev/icons?i=react,css" width="50" />
+        <img src="https://skillicons.dev/icons?i=react,css&theme=dark" width="60" />
       </td>
       <td>
-        <a href="https://github.com/fmughalishere/Beauty-Here">Code</a> <br/>
-        <a href="https://beautyherebyfizza.netlify.app/">Live</a>
+        <a href="https://github.com/fmughalishere/Beauty-Here">View Code</a> <br/>
+        <a href="https://beautyherebyfizza.netlify.app/">Live Demo</a>
       </td>
     </tr>
   </tbody>
@@ -129,7 +132,7 @@
 <!-- Top Languages -->
 <div align="center">
   <h3>👨‍💻 Top Languages</h3>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fmughalishere&show_icons=true&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fmughalishere&show_icons=true&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
 </div>
 
 <hr/>
@@ -147,6 +150,7 @@
   
   <br/><br/>
   
-  <p><i>Lets Connect!</i></p>
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+  <p><i>Let's Connect and Build Something Amazing!</i></p>
+  <!-- Animated Footer Line -->
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Footer Animation">
 </div>
