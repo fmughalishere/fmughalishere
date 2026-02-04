@@ -1,109 +1,81 @@
-<!-- Top Decorative Line (Animated Wave) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,8A2BE2,00FFFF&height=120&section=header" width="100%"/>
+<!-- Header Section with Soft Gradient -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=2,FF61D2,FE9090,FFB067&height=220&section=header&text=Fiza%20Muneer&fontSize=80&fontAlignY=45&fontColor=fff&desc=Full%20Stack%20Architect%20%7C%20MERN%20Expert&descAlignY=65&descAlign=50&animation=fadeIn" width="100%" />
+</p>
 
-<div align="center">
-  <!-- Profile Picture / Logo Area -->
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJidm96em81N3V6amR0eGZ0eXQ5M3Bybm96eHk2eHh4eHh4eHh4eHh4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="120px"/>
+<!-- Social Connect Bar -->
+<p align="center">
+  <a href="https://github.com/fmughalishere"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/fizza-muneer-aa054a316/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/@merndevfiza01"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="mailto:fizamuneer0101@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
-  <!-- Main Title -->
-  <h1><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px"> I'm Fiza Muneer</h1>
+<br/>
 
-  <!-- Typing Animation with Modern Colors -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Full+Stack+Engineer;MERN+Stack+Expert;Next.js+Architect;Gen-AI+Enthusiast" alt="Typing SVG" />
-  </a>
-
-  <!-- Quick Badges -->
-  <p align="center">
-    <a href="https://github.com/fmughalishere"><img src="https://img.shields.io/github/followers/fmughalishere?label=Follow&style=social" /></a>
-    <a href="https://www.linkedin.com/in/fizza-muneer-aa054a316/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" /></a>
-    <a href="mailto:fizamuneer0101@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail" /></a>
-  </p>
-</div>
-
----
-
-### ⚡ Quick Overview
-
-<table border="0">
+<!-- Intro Section with Layout -->
+<table>
   <tr>
-    <td width="60%" valign="top">
-      <p align="left">
-        I am a <b>Full-Stack Developer</b> based in Lahore, Pakistan, focused on building high-performance web applications. I bridge the gap between complex backend logic and pixel-perfect frontend design.
+    <td width="55%" valign="top">
+      <h3>✨ About Me</h3>
+      <p>I am a <b>Software Engineer</b> specializing in building scalable web applications. My philosophy is simple: <i>Code should be clean, and user experience should be magical.</i></p>
+      <p>
+        🔭 <b>Focusing on:</b> High-performance Next.js apps<br/>
+        🌱 <b>Mastering:</b> Generative AI & Cloud Architecture<br/>
+        💬 <b>Ask me:</b> Anything about MERN stack!
       </p>
-      <ul>
-        <li>🚀 <b>Currently:</b> Scaling Enterprise Solutions with <b>Next.js</b>.</li>
-        <li>🧠 <b>Learning:</b> LLMs, Prompt Engineering & System Design.</li>
-        <li>💼 <b>Open to:</b> Collaborative Open Source Projects.</li>
-        <li>💬 <b>Ask me about:</b> React, Node, and Scalable Architecture.</li>
-      </ul>
-      <br/>
-      <!-- Dynamic GitHub Trophies -->
-      <img src="https://github-profile-trophy.vercel.app/?username=fmughalishere&theme=tokyonight&column=4&margin-w=10&margin-h=10&no-bg=true" width="100%" />
+      <!-- Activity Graph - Thin Line Version -->
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=fmughalishere&bg_color=ffffff&color=FF61D2&line=FE9090&point=FFB067&area=true&hide_border=true" width="100%" />
     </td>
-    <td width="40%" valign="top">
-       <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmt2ZThwN3BrZndreXF6Ymd6eXp6eHh4eHh4eHh4eHh4eHh4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%"/>
+    <td width="45%" align="center">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHIycXl0ZzZic3Fic3Fic3Fic3Fic3Fic3Fic3Fic3Fic3Fic3Fic3FicyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/vN28WshXvUvTOSdEph/giphy.gif" width="280px" />
     </td>
   </tr>
 </table>
 
----
+<br/>
 
-### 🛠️ Specialized Tech Stack
-
+<!-- Skillset: Categorized & Styled -->
+<h2 align="center">🛠️ Technical Arsenal</h2>
 <div align="center">
-  <!-- Frontend Category -->
-  <b>Frontend Architecture</b><br/>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,redux,materialui,sass&perline=7" />
-  <br/><br/>
-  
-  <!-- Backend Category -->
-  <b>Backend & Database</b><br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,postgresql,supabase,graphql&perline=7" />
-  <br/><br/>
-  
-  <!-- Tools Category -->
-  <b>DevOps & Design</b><br/>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,figma,vercel,aws&perline=7" />
+  <img src="https://img.shields.io/badge/Frontend-FF61D2?style=for-the-badge" /> 
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,tailwind,html,css" /><br/>
+  <img src="https://img.shields.io/badge/Backend-FE9090?style=for-the-badge" /> 
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,graphql,postman" /><br/>
+  <img src="https://img.shields.io/badge/Tools-FFB067?style=for-the-badge" /> 
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,aws" />
 </div>
 
----
+<br/>
 
-### 📊 Performance Analytics
-
+<!-- Metrics Section -->
+<h2 align="center">📊 Growth Metrics</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fmughalishere&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fmughalishere&layout=compact&theme=tokyonight&hide_border=false" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fmughalishere&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&title_color=FF61D2&icon_color=FE9090&text_color=555" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fmughalishere&show_icons=true&theme=radical&layout=compact&hide_border=true&bg_color=00000000&title_color=FF61D2&icon_color=FE9090&text_color=555" width="48%" />
+</p>
+
+<br/>
+
+<!-- Project Cards -->
+<h2 align="center">🚀 Featured Showcase</h2>
+<p align="center">
+  <a href="https://github.com/fmughalishere/Positivus">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fmughalishere&repo=Positivus&theme=radical&show_owner=true" />
+  </a>
+  <a href="https://github.com/fmughalishere/Beauty-Here">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fmughalishere&repo=Beauty-Here&theme=radical&show_owner=true" />
+  </a>
+</p>
+
+<br/>
+
+<!-- Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFB067&height=100&section=footer" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fmughalishere&theme=tokyonight&hide_border=false" width="94%" />
+  <b>Built with ❤️ in Lahore, Pakistan</b><br/>
+  <img src="https://komarev.com/ghpvc/?username=fmughalishere&label=Visitors&color=FF61D2&style=flat-square" />
 </p>
-
----
-
-### 🎨 Featured Work
-
-| **Positivus Agency** | **BeautyHere Store** |
-| :--- | :--- |
-| <img src="https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=300&q=80" width="100%"/> | <img src="https://images.unsplash.com/photo-1596462502278-27bfdc4033c8?auto=format&fit=crop&w=300&q=80" width="100%"/> |
-| High-converting digital marketing landing page built with React & Tailwind. | Full-feature E-commerce store with secure payments & product management. |
-| [📂 Code](https://github.com/fmughalishere/Positivus) | [📂 Code](https://github.com/fmughalishere/Beauty-Here) |
-
----
-
-<!-- Footer Section -->
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="100%" />
-  
-  <br/><br/>
-  
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=fmughalishere&label=Profile%20Views&color=8A2BE2&style=for-the-badge" />
-  </p>
-  
-  <p><i>Building the future, one commit at a time. ✨</i></p>
-
-  <!-- Animated Bottom Border -->
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
