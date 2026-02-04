@@ -1,126 +1,109 @@
-<!-- Top Decorative Line (Rainbow Animation) -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<!-- Top Decorative Line (Animated Wave) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,8A2BE2,00FFFF&height=120&section=header" width="100%"/>
 
-<!-- Header Section -->
 <div align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  <br/>
-  
-  <!-- Cylinder Header with Gradient -->
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:00C9FF,100:92FE9D&height=180&section=header&text=Fiza%20Muneer&fontSize=70&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=MERN%20Stack%20%7C%20Next.js%20%7C%20Open%20Source&descAlignY=60&descAlign=50" width="100%" />
+  <!-- Profile Picture / Logo Area -->
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJidm96em81N3V6amR0eGZ0eXQ5M3Bybm96eHk2eHh4eHh4eHh4eHh4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="120px"/>
 
-  <!-- Typing Animation -->
+  <!-- Main Title -->
+  <h1><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px"> I'm Fiza Muneer</h1>
+
+  <!-- Typing Animation with Modern Colors -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=20C20E&width=600&center=true&vCenter=true&lines=Building+Scalable+Web+Apps...;Exploring+Artificial+Intelligence...;Crafting+Perfect+UI%2FUX...;Always+Learning+New+Tech..." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Full+Stack+Engineer;MERN+Stack+Expert;Next.js+Architect;Gen-AI+Enthusiast" alt="Typing SVG" />
   </a>
+
+  <!-- Quick Badges -->
+  <p align="center">
+    <a href="https://github.com/fmughalishere"><img src="https://img.shields.io/github/followers/fmughalishere?label=Follow&style=social" /></a>
+    <a href="https://www.linkedin.com/in/fizza-muneer-aa054a316/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" /></a>
+    <a href="mailto:fizamuneer0101@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail" /></a>
+  </p>
 </div>
 
-<br />
+---
 
-<!-- Social Media Badges (Center Aligned) -->
-<div align="center">
-  <a href="https://www.linkedin.com/in/fizza-muneer-aa054a316/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/fmughalishere"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://twitter.com/@merndevfiza01"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="mailto:fizamuneer0101@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</div>
+### ⚡ Quick Overview
 
-<br />
-
-<!-- Main Content Area -->
-<table>
+<table border="0">
   <tr>
-    <td width="50%" valign="top">
-      <h2>👩‍💻 <span style="color:#00C9FF">About The Developer</span></h2>
-      <p>
-        <strong>Hello World!</strong> I'm Fiza, a passionate developer from <strong>Lahore, Pakistan</strong>. I specialize in building full-stack applications that are fast, responsive, and user-friendly.
+    <td width="60%" valign="top">
+      <p align="left">
+        I am a <b>Full-Stack Developer</b> based in Lahore, Pakistan, focused on building high-performance web applications. I bridge the gap between complex backend logic and pixel-perfect frontend design.
       </p>
       <ul>
-        <li>🔭 Working on: <strong>Enterprise Web Apps</strong></li>
-        <li>🌱 Learning: <strong>Gen-AI & System Design</strong></li>
-        <li>⚡ Fun Fact: I code better with ☕ Coffee!</li>
+        <li>🚀 <b>Currently:</b> Scaling Enterprise Solutions with <b>Next.js</b>.</li>
+        <li>🧠 <b>Learning:</b> LLMs, Prompt Engineering & System Design.</li>
+        <li>💼 <b>Open to:</b> Collaborative Open Source Projects.</li>
+        <li>💬 <b>Ask me about:</b> React, Node, and Scalable Architecture.</li>
       </ul>
-      <br />
-      <!-- Animated Developer GIF -->
-      <div align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%" />
-      </div>
+      <br/>
+      <!-- Dynamic GitHub Trophies -->
+      <img src="https://github-profile-trophy.vercel.app/?username=fmughalishere&theme=tokyonight&column=4&margin-w=10&margin-h=10&no-bg=true" width="100%" />
     </td>
-    <td width="50%" valign="top">
-      <div align="center">
-        <h2>📊 <span style="color:#00C9FF">GitHub Stats</span></h2>
-        <!-- GitHub Stats Card -->
-        <img src="https://github-readme-stats.vercel.app/api?username=fmughalishere&show_icons=true&theme=midnight-owl&hide_border=true&count_private=true" width="100%" />
-        <br/>
-        <!-- Streak Card -->
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=fmughalishere&theme=midnight-owl&hide_border=true" width="100%" />
-        <br/>
-        <!-- Top Languages -->
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fmughalishere&show_icons=true&theme=midnight-owl&hide_border=true&layout=compact" width="100%" />
-      </div>
+    <td width="40%" valign="top">
+       <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmt2ZThwN3BrZndreXF6Ymd6eXp6eHh4eHh4eHh4eHh4eHh4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%"/>
     </td>
   </tr>
 </table>
 
-<br/>
+---
 
-<!-- Tech Stack Section -->
-<h2 align="center">🛠️ <span style="color:#00C9FF">Tech Stack & Tools</span></h2>
+### 🛠️ Specialized Tech Stack
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,html,css,tailwind,bootstrap,materialui&perline=10" />
-  <br /><br />
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,git,github,vscode,postman,figma,vercel&perline=10" />
-</div>
-
-<br/>
-
-<!-- 3D Contribution Graph -->
-<h2 align="center">🔥 <span style="color:#00C9FF">Contribution Activity</span></h2>
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fmughalishere&bg_color=011627&color=00C9FF&line=AB56FF&point=FFFFFF&hide_border=true&area=true" width="100%" />
-</div>
-
-<br/>
-
-<!-- Projects Grid -->
-<h2 align="center">🚀 <span style="color:#00C9FF">Featured Projects</span></h2>
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Positivus Agency</h3>
-      <p align="center">Digital Marketing Landing Page</p>
-      <div align="center">
-        <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
-        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwind-css&logoColor=white"/>
-      </div>
-      <br/>
-      <div align="center">
-        <a href="https://github.com/fmughalishere/Positivus"><strong>📂 View Code</strong></a>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">BeautyHere Store</h3>
-      <p align="center">E-Commerce Beauty Shop</p>
-      <div align="center">
-        <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
-      </div>
-      <br/>
-      <div align="center">
-        <a href="https://github.com/fmughalishere/Beauty-Here"><strong>📂 View Code</strong></a>
-      </div>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<!-- Footer Section with Animation -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=fmughalishere&label=Profile%20Views&color=00C9FF&style=for-the-badge" alt="Views" />
+  <!-- Frontend Category -->
+  <b>Frontend Architecture</b><br/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,redux,materialui,sass&perline=7" />
   <br/><br/>
-  <p><i>Thanks for visiting! Let's build something amazing together.</i></p>
   
-  <!-- Footer City Animation -->
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+  <!-- Backend Category -->
+  <b>Backend & Database</b><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,postgresql,supabase,graphql&perline=7" />
+  <br/><br/>
+  
+  <!-- Tools Category -->
+  <b>DevOps & Design</b><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,figma,vercel,aws&perline=7" />
+</div>
+
+---
+
+### 📊 Performance Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fmughalishere&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fmughalishere&layout=compact&theme=tokyonight&hide_border=false" width="45%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fmughalishere&theme=tokyonight&hide_border=false" width="94%" />
+</p>
+
+---
+
+### 🎨 Featured Work
+
+| **Positivus Agency** | **BeautyHere Store** |
+| :--- | :--- |
+| <img src="https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=300&q=80" width="100%"/> | <img src="https://images.unsplash.com/photo-1596462502278-27bfdc4033c8?auto=format&fit=crop&w=300&q=80" width="100%"/> |
+| High-converting digital marketing landing page built with React & Tailwind. | Full-feature E-commerce store with secure payments & product management. |
+| [📂 Code](https://github.com/fmughalishere/Positivus) | [📂 Code](https://github.com/fmughalishere/Beauty-Here) |
+
+---
+
+<!-- Footer Section -->
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="100%" />
+  
+  <br/><br/>
+  
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=fmughalishere&label=Profile%20Views&color=8A2BE2&style=for-the-badge" />
+  </p>
+  
+  <p><i>Building the future, one commit at a time. ✨</i></p>
+
+  <!-- Animated Bottom Border -->
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
