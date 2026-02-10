@@ -1,8 +1,4 @@
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-<div align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  <br/>
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:00C9FF,100:92FE9D&height=180&section=header&text=Fiza%20Muneer&fontSize=70&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=MERN%20Stack%20%7C%20Next.js%20%7C%20Open%20Source&descAlignY=60&descAlign=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:00C9FF,100:92FE9D&height=180&section=header&text=Fiza%20Muneer&fontSize=70&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=MERN%20Stack%20%7C%20Next.js%20%7C%20Open%20Source&descAlignY=60&descAlign=50" width="100%" />
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=20C20E&width=600&center=true&vCenter=true&lines=Building+Scalable+Web+Apps...;Exploring+Artificial+Intelligence...;Crafting+Perfect+UI%2FUX...;Always+Learning+New+Tech..." alt="Typing SVG" />
   </a>
