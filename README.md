@@ -96,11 +96,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=fmughalishere&bg_color=0D1117&color=00C9FF&line=00C9FF&point=FFFFFF&hide_border=true&area=true" width="80%" />
 </div>
 
-<div align="center">
-  <!-- Snake Animation - Note: requires the github-contribution-grid-snake action to be set up in your repo -->
-  <img src="https://raw.githubusercontent.com/fmughalishere/fmughalishere/output/snake.svg" alt="Snake animation" />
-</div>
-
 ###
 
 <h2 align="center">🌐 Connect with me</h2>
