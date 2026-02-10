@@ -80,6 +80,30 @@
         <a href="https://github.com/fmughalishere/Beauty-Here"><strong>📂 View Code</strong></a>
       </div>
     </td>
+    <td width="50%">
+      <h3 align="center">Doctors Portal</h3>
+      <p align="center">Appointment booking platform</p>
+      <div align="center">
+        <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
+      </div>
+      <br/>
+      <div align="center">
+        <a href="https://doctors-portalbyfizza.netlify.app/"><strong>Live Preview</strong></a>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">Foodo</h3>
+      <p align="center">Restaurant management system</p>
+      <div align="center">
+        <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
+      </div>
+      <br/>
+      <div align="center">
+        <a href="https://foodobyfizza.netlify.app/"><strong>Live Preview</strong></a>
+      </div>
+    </td>
   </tr>
 </table>
 <br/>
