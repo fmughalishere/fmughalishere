@@ -21,10 +21,10 @@
 ###
 
 <p align="center">
-  📚 I'm a developer from <b>Lahore, Pakistan</b> specializing in full-stack applications.<br>
-  🔭 Currently working on <b>Enterprise Web Apps</b><br>
-  🌱 Learning <b>Gen-AI & System Design</b><br>
-  ⚡ Fun Fact: I code better with ☕ <b>Coffee!</b>
+   I'm a developer from <b>Lahore, Pakistan</b> specializing in full-stack applications.<br>
+   Currently working on <b>Enterprise Web Apps</b><br>
+   Learning <b>Gen-AI & System Design</b><br>
+   Fun Fact: I code better with ☕ <b>Chayee!</b>
 </p>
 
 ###
