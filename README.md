@@ -115,6 +115,9 @@
   <a href="https://github.com/fmughalishere" target="_blank">
     <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="github logo"  />
   </a>
+  <a href="https://instagram.com/mern_dev_fiza" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=1DA3F2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
+  </a>
 </div>
 
 ###
