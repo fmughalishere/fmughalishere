@@ -104,10 +104,10 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/fizza-muneer-aa054a316/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/@merndevfiza01" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=E1E8ED&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="twitter logo"  />
+  <a href="https://twitter.com/merndevfiza01" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
   <a href="mailto:fizamuneer0101@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
